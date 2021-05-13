@@ -11,7 +11,7 @@ body {
 .bush {
     position: absolute;
     content: '';
-    bottom: 450px;
+    bottom: px;
     width: 100px;
     height: 100px;
     -moz-border-radius: 50%;
