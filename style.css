@@ -5,7 +5,52 @@
 }
 
 body {
-    background-color: #6bd0fc;
-}
+    
     background-color: #071633;
+}
+
+.mountain{
+    position: absolute;
+    content: "";
+    bottom:  100px;
+    left: 120px;
+    border-top: 0px solid transparent;
+    border-right: 180px solid transparent;
+    border-bottom: 350px solid whitesmoke;
+    border-left: 180px solid transparent;
+    z-index: 6;
+}
+.mountain-shadow{
+    position: absolute;
+    content: "";
+    bottom:  100px;
+    left: 300px;
+    border-top: 0px solid transparent;
+    border-right: 180px solid transparent;
+    border-bottom: 350px solid rgb(159, 172, 189);
+    border-left: 0px solid transparent;
+    z-index: 6;
+
+}
+.mini-mountain{
+    position: absolute;
+    content: "";
+    bottom: 100px;
+    left: -50px;
+    border-top: 0px solid transparent;
+    border-right: 280px solid transparent;
+    border-bottom: 280px solid whitesmoke;
+    border-left: 170px solid transparent;
+    z-index: 5;
+}
+.mini-shadow{
+    position: absolute;
+    content: "";
+    bottom:  100px;
+    left: 120px;
+    border-top: 0px solid transparent;
+    border-right: 280px solid transparent;
+    border-bottom: 280px solid rgb(159, 172, 189);
+    border-left: 0px solid transparent;
+    z-index: 5;
 }
