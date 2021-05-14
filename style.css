@@ -225,11 +225,11 @@ body {
     border-left: 0px solid transparent;
     z-index: 5;
 }
-}
+
 .star1{
     position: absolute;
     content: '';
-    bottom: 270px;
+    bottom: 470px;
     left: 1200px;
     width: 0.21rem;
     height: 0.21rem;
@@ -242,7 +242,7 @@ body {
 .star2{
     position: absolute;
     content: '';
-    bottom: 300px;
+    bottom: 600px;
     left: 300px;
     width: 0.4rem;
     height: 0.4rem;
@@ -255,7 +255,7 @@ body {
 .star3{
     position: absolute;
     content: '';
-    bottom: 270px;
+    bottom: 370px;
     left: 530px;
     width: 0.4rem;
     height: 0.4rem;
@@ -268,7 +268,7 @@ body {
 .star4{
     position: absolute;
     content: '';
-    bottom: 210px;
+    bottom: 510px;
     left: 1000px;
     width: 0.18rem;
     height: 0.18rem;
@@ -281,7 +281,7 @@ body {
 .star5{
     position: absolute;
     content: '';
-    bottom: 200px;
+    bottom: 500px;
     left: 450px;
     width: 0.18rem;
     height: 0.18rem;
@@ -294,7 +294,7 @@ body {
 .star6{
     position: absolute;
     content: '';
-    bottom: 420px;
+    bottom: 520px;
     left: 250px;
     width: 0.18rem;
     height: 0.18rem;
@@ -307,7 +307,7 @@ body {
 .star7{
     position: absolute;
     content: '';
-    bottom: 300px;
+    bottom: 500px;
     left: 110px;
     width: 0.12rem;
     height: 0.12rem;
@@ -320,7 +320,7 @@ body {
 .star8{
     position: absolute;
     content: '';
-    bottom: 140px;
+    bottom: 500px;
     left: 1300px;
     width: 0.12rem;
     height: 0.12rem;
